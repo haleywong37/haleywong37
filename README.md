@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Haley!
-- 👀 I’m interested in golf, design, art, and music
-- 🌱 I’m currently learning C++
+- 🌱 I know Java and am currently learning C++
 - 💞️ I’m looking to collaborate on anything, just ask!
 
 <!---
